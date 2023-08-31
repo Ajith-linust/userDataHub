@@ -6,12 +6,9 @@ export const HomePageWrapper = styled.div`
   width: calc(100vw - 20px);
   max-width: 1300px;
   margin: auto;
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
   gap: 40px;
   height: 800px;
+  position: relative;
 
   @media (max-height: 800px) {
     margin-block: 20px;

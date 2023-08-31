@@ -15,7 +15,8 @@ export const UsersListContainer = styled.div`
     left: 50%;
     top: 130px;
     transform: translateX(-50%);
-    width: 500px;
+    width: 100%;
+    max-width: 500px;
     text-align: center;
     border-radius: 10px;
     box-shadow: 0px 0px 50px -19px rgba(112,112,112,0.4);
