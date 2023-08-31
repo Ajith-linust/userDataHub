@@ -14,11 +14,11 @@ git clone https://github.com/Ajith-linust/userDataHub.git
 ```js
 cd userDataHub
 ```
--Install Dependencies: Use either npm or yarn to install the project's required packages. Run one of the following commands:
+- Install Dependencies: Use either npm or yarn to install the project's required packages. Run one of the following commands:
 ```js
 npm install OR yarn
 ```
--Run the Application: After successfully installing the packages, start the application using the following command:
+- Run the Application: After successfully installing the packages, start the application using the following command:
 ```js
 npm run preview
 ```
