@@ -12,6 +12,7 @@ export const HomePageWrapper = styled.div`
 
   @media (max-height: 800px) {
     margin-block: 20px;
+    height: ${window.innerHeight - 40 + 'px'};
   }
 `;
 
@@ -65,6 +66,10 @@ export const ProfileWrapper = styled.div`
   max-height: 800px;
   display: flex;
   flex-direction: column;
+
+  @media (max-height: 800px) {
+    height: ${window.innerHeight - 40 + 'px'};
+  }
 `;
 
 export const ComingSoon = styled.h1`
