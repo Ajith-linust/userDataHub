@@ -20,7 +20,7 @@ npm install OR yarn
 ```
 - Run the Application: After successfully installing the packages, start the application using the following command:
 ```js
-npm run preview
+npm run build && npm run preview
 ```
 
 ## Third-Party Libraries
